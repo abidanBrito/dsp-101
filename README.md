@@ -1,4 +1,4 @@
-# dsp-101
+![Project_Logo](/img/dsp_banner.png)
 
 ## TABLE OF CONTENTS
 1.  [About](#about)
@@ -39,11 +39,12 @@ All lab solutions were done in **Matlab** in the form of **live scripts**.
 *   Exercise 4.4 - Bitcoin price history.
 
 ### Lab 05
+*   Exercise 5.1 - Spectrograms.
+*   Exercise 5.2 - C major scale.
 
 ### Lab 06
-
 ### Lab 07
-  
+
 ## CONTRIBUTIONS
 Please, **don't shy away from making pull requests** with modifications, fixing any mistakes I may have made or adding your own lab exercises / projects.
 
