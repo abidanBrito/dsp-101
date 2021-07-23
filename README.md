@@ -14,6 +14,7 @@ Last semester I took an introductory class on **Digital Signal Processing**. The
 I can not upload the provided lab documents for obvious reason, but the **code should be pretty self-explanatory**. That said, feel free to open up a pull request or to contact me with any inquiries you may have. Beware though, anything outside the scope of this repository will likely escape my understanding of the subject matter.
 
 ## CONTENTS
+All lab solutions were done in **Matlab** in the form of **live scripts**.
 
 ### Lab 01
 *   Exercise 1.1 - Tinkering with audio files.
