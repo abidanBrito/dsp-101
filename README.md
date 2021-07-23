@@ -32,6 +32,10 @@ I can not upload the provided lab documents for obvious reason, but the **code s
 *   Exercise 3.4 - Echo & rebervation.
 
 ### Lab 04
+*   Exercise 4.1 - White noise.
+*   Exercise 4.2 - Pink noise and brownian noise.
+*   Exercise 4.3 - Noise in nature.
+*   Exercise 4.4 - Bitcoin price history.
 
 ### Lab 05
 
@@ -66,7 +70,7 @@ This section is intended to serve as a quick way to familiarize yourself with **
 [Infinite impulse response (IIR).](https://en.wikipedia.org/wiki/Infinite_impulse_response)  
 
 ### Functional analysis
-[Convolution](https://en.m.wikipedia.org/wiki/Convolution)  
+[Convolution.](https://en.m.wikipedia.org/wiki/Convolution)  
 
 ### Windowing
 [Window function.](https://en.m.wikipedia.org/wiki/Window_function)  
