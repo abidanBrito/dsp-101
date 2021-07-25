@@ -18,7 +18,7 @@ All lab solutions were done in **Matlab** in the form of **live scripts**.
 
 ### Lab 01
 *   Exercise 1.1 - Tinkering with audio files.
-*   Exercise 1.2 - Generating a musical tones.
+*   Exercise 1.2 - Generating musical tones.
 
 ### Lab 02
 *   Exercise 2.1 - Dirac Delta and Unit-Step functions.
@@ -46,10 +46,17 @@ All lab solutions were done in **Matlab** in the form of **live scripts**.
 *   Exercise 6.1 - Fourier transform.
 *   Exercise 6.2 - Recurrence equation.
 *   Exercise 6.3 - Echo cancellation.
-*   
-### Lab 07
-### Lab 08
 
+### Lab 07
+*   Exercise 7.1 - Chirp signals.
+*   Exercise 7.2 - Chirp signals, sampling.
+*   Exercise 7.3 - Sampling.
+
+### Lab 08
+*   Exercise 8.1 - Generating a musical chord.
+*   Exercise 8.2 - Spectral analysis of a musical chord.
+*   Exercise 8.3 - Spectral analysis, windowing.
+   
 ### Exams
 *   Exam Drill - Tone generation, rectangular window function, spectral analysis (N-FFT, log scale plot).
 *   Exam - Continuous-time plot, spectral analysis (N-FFT, log scale plot), logarithmic unit of attenuation.
@@ -80,11 +87,11 @@ This section is intended to serve as a quick way to familiarize yourself with **
 #### Systems & functional analysis
 [Discrete system.](https://en.m.wikipedia.org/wiki/Discrete_system)  
 [Finite impulse response (FIR).](https://en.m.wikipedia.org/wiki/Finite_impulse_response)  
-[Infinite impulse response (IIR).](https://en.wikipedia.org/wiki/Infinite_impulse_response)  
+[Infinite impulse response (IIR).](https://en.m.wikipedia.org/wiki/Infinite_impulse_response)  
 [Recursive filter (IIR).](https://en.m.wikipedia.org/wiki/Recursive_filter)  
 [Recurrence relation.](https://en.m.wikipedia.org/wiki/Recurrence_relation)  
-[Unit step function.](https://en.wikipedia.org/wiki/Heaviside_step_function)  
-[Cross-correlation.](https://en.wikipedia.org/wiki/Cross-correlation)  
+[Unit step function.](https://en.m.wikipedia.org/wiki/Heaviside_step_function)  
+[Cross-correlation.](https://en.m.wikipedia.org/wiki/Cross-correlation)  
 [Convolution.](https://en.m.wikipedia.org/wiki/Convolution)  
 
 #### Windowing
