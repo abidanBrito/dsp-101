@@ -46,7 +46,7 @@ All lab solutions were done in **Matlab** in the form of **live scripts**.
 
 ### Lab 06
 *   Exercise 6.1 - Fourier transform.
-*   Exercise 6.2 - Recurrence equation.
+*   Exercise 6.2 - Input-output difference equation.
 *   Exercise 6.3 - Echo cancellation.
 
 ### Lab 07
@@ -91,7 +91,7 @@ This section is intended to serve as a quick way to familiarize yourself with **
 [Finite impulse response (FIR).](https://en.m.wikipedia.org/wiki/Finite_impulse_response)  
 [Infinite impulse response (IIR).](https://en.m.wikipedia.org/wiki/Infinite_impulse_response)  
 [Recursive filter (IIR).](https://en.m.wikipedia.org/wiki/Recursive_filter)  
-[Recurrence relation.](https://en.m.wikipedia.org/wiki/Recurrence_relation)  
+[Linear constant-coefficient difference equation.](https://en.m.wikipedia.org/wiki/Z-transform#Linear_constant-coefficient_difference_equation)  
 [Unit step function.](https://en.m.wikipedia.org/wiki/Heaviside_step_function)  
 [Cross-correlation.](https://en.m.wikipedia.org/wiki/Cross-correlation)  
 [Convolution.](https://en.m.wikipedia.org/wiki/Convolution)  
