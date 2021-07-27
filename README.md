@@ -52,7 +52,7 @@ All lab solutions were done in **Matlab** in the form of **live scripts**.
 ### Lab 07
 *   Exercise 7.1 - Chirp signals.
 *   Exercise 7.2 - Chirp signals, sampling.
-*   Exercise 7.3 - Sampling.
+*   Exercise 7.3 - Sampling and aliasing.
 
 ### Lab 08
 *   Exercise 8.1 - Generating a musical chord.
