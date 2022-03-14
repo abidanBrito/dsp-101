@@ -79,7 +79,7 @@ This section is intended to serve as a quick way to familiarize yourself with **
 [Frequency.](https://en.m.wikipedia.org/wiki/Frequency)  
 [Bandwidth.](https://en.m.wikipedia.org/wiki/Bandwidth_(signal_processing))  
 [Aliasing.](https://en.m.wikipedia.org/wiki/Aliasing)  
-[Sampling.](https://en.m.wikipedia.org/wiki/Sampling) 
+[Sampling.](https://en.m.wikipedia.org/wiki/Sampling)  
 [Nyquist-Shannon sampling theorem.](https://en.m.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)  
 
 #### Series
